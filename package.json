@@ -1,0 +1,15 @@
+{
+  "name": "@bxh2b/common",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "release": "bumpp && pnpm publish"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bumpp": "^9.2.0"
+  }
+}
